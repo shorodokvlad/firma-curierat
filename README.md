@@ -6,6 +6,7 @@
 ![Gameplay Screenshot](screenshoots/Screenshot_2026-03-05_at_20-03-30.png)
 ![Gameplay Screenshot](screenshoots/Screenshot_2026-03-05_at_20-03-40.png)
 ![Gameplay Screenshot](screenshoots/Screenshot_2026-03-05_at_20-03-47.png)
+![Gameplay Screenshot](screenshoots/Screenshot_2026-03-05_at_20-03-57.png)
 ![Gameplay Screenshot](screenshoots/Screenshot_2026-03-05_at_20-04-05.png)
 
 ## Funcționalități
