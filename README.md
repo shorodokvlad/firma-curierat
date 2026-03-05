@@ -2,6 +2,12 @@
 
 **FirmaCurierat** este o aplicație Windows Forms dezvoltată în C#, care vizează .NET Framework 4.8. Proiectul gestionează operațiunile unei firme de curierat, inclusiv administrarea comenzilor și coletelor, cu suport pentru stocarea datelor atât în memorie, cât și în fișiere text.
 
+![Gameplay Screenshot](screenshoots/Screenshot 2026-03-05 at 20.03.06.png)
+![Gameplay Screenshot](screenshoots/Screenshot 2026-03-05 at 20.03.30.png)
+![Gameplay Screenshot](screenshoots/Screenshot 2026-03-05 at 20.03.40.png)
+![Gameplay Screenshot](screenshoots/Screenshot 2026-03-05 at 20.03.47.png)
+![Gameplay Screenshot](screenshoots/Screenshot 2026-03-05 at 20.04.05.png)
+
 ## Funcționalități
 
 - Adăugare, modificare, căutare și afișare comenzi (`Comanda`) și colete (`Colet`)
